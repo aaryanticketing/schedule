@@ -1,8 +1,8 @@
 [package]
-org = "wso2"
-name = "weather.to.email.integration"
+org = "aaryan"
+name = "reports.schedule.task"
 version = "0.1.0"
-distribution = "2201.4.1"
+distribution = "2201.8.5"
 
 [build-options]
 observabilityIncluded = true
